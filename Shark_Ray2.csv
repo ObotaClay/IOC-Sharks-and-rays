@@ -1,0 +1,127 @@
+Form Number,Landing Site ,Date ,Name of Data Collector ,Fisher's  Name ,Boat/ vessel type (code),Propulsion Mode (code):,Engine size,Primary gear Type (code) ,Secondary gear type,nature of fishing (Active/passive),Net Dimensions: Length,Net Dimensions: Depth/Height,Mesh Size (inches),Hook Size,Number of hooks,Number of handlines,Crew Size,Area Fished (Eneo la uvuvi): ,Fishing Depth (m) ,Time departure,Time return,Total weight of catch (kg),CPUE(kg/fisher/trip),Total Price (Ksh./kg),Did you target shark/ray today,When did you last catch a shark or ray?,Comments (Bait type used)
+NGM280518-01,Ngomeni,28/05/2018,Ahmed Amin Farouk,Abdi Yususf,Mashua,OB,15,Gillnet,,,120,50,4,,,,5,Rasi ya  Ngome,30,6:30,10:00,10,2,150,NO,3months ago,None
+NGM290518-01,Ngomeni,29/05/2018,Ahmed Amin Farouk,Ismail Ali,Mashua,OB,15,Gillnet,,,120,50,4,,,,5,Rasi ya  Ngome,30,6:00,10:00,16,3.2,150,NO,3months ago,None
+NGM290518-01,Ngomeni,29/05/2018,Ahmed Amin Farouk,Abdi Yususf,Mashua,OB,,Gillnet,,,120,50,4,,,,6,Rasi ya  Ngome,30,6:00,13:00,20,3.333333333,150,NO,3months ago,None
+NGM290518-01,Ngomeni,29/05/2018,Ahmed Amin Farouk,,Mtumbwi,,,Monofilament,,,,,,,,,5,Rasi ya  Ngome,,,,,,150,NO,3months ago,None
+NGM290518-01,Ngomeni,29/05/2018,Ahmed Amin Farouk,,Mtumbwi,,,Monofilament,,,,,,,,,5,Rasi ya  Ngome,,,,,,150,NO,3months ago,None
+NGM310518-01,Ngomeni,31/05/2018,Ahmed Amin Farouk,Mohamed Omar,Mashua,OB,15,Gillnet,,,120,50,3.5,,,,3,Rasi ya  Ngome,20,6:00,10:30,5,1.666666667,150,NO,3months ago,None
+NGM310518-02,Ngomeni,31/05/2018,Ahmed Amin Farouk,Abdi Yususf,Mashua,OB,15,Gillnet,,,120,50,4,,,,4,Rasi ya  Ngome,,,,,0,150,NO,3months ago,None
+NGM310518-03,Ngomeni,31/05/2018,Ahmed Amin Farouk,Iha Thoya,Mtumbwi,Paddle,,Monofilament,,,120,50,2.5,,,,2,Rasi ya  Ngome,30,17:00,6:00,15,7.5,150,NO,3months ago,None
+NGM010618-01,Ngomeni,1-Jun-18,Ahmed Amin Farouk,Charo Ngonyo,Mashua,OB,15,Gillnet,,,120,50,4,,,,5,Rasi ya  Ngome,30,6:00,9:30,120,24,150,NO,3months ago,None
+NGM010618-02,Ngomeni,1-Jun-18,Ahmed Amin Farouk,Mohamed Husein,Mashua,OB,45,Gillnet,,,120,50,4,,,,6,Rasi ya  Ngome,30,6:00,10:00,58,9.666666667,100,NO,3months ago,None
+NGM010618-03,Ngomeni,1-Jun-18,Ahmed Amin Farouk,,Mtumbwi,,,Monofilament,,,,,,,,,3,Rasi ya  Ngome,20,6:00,10:00,67,22.33333333,900,NO,3months ago,None
+NGM010618-04,Ngomeni,1-Jun-18,Ahmed Amin Farouk,,Mtumbwi,,,Monofilament,,,,,,,,,4,Rasi ya  Ngome,30,7:00,11:00,34,8.5,500,NO,3months ago,None
+SHM090518-01,Shimoni,9-May-18,Daniel Ocharo,,Footfisher,OB,15,Speargun,Hook and line,,,,,,,,9,Funzi,20,7:00,14:24,136,15.11111111,6500,,,
+SHM090518-02,Shimoni,9-May-18,Daniel Ocharo,Anthony,Footfisher,,,Speargun,,,,,,,,,1,Funzi,30,7:00,12:30,22,22,3300,NO,Ocaasionally,
+SHM140518-01,Shimoni,14-May-18,Daniel Ocharo,Tsambea,Footfisher,,,Handline,,,,,,,,,1,Funzi,10,8:00,13:09,6,6,405,NO,Recently,
+SHM240518-01,Shimoni,24-May-18,Daniel Ocharo,Tsambea,Footfisher,,,Speargun,Hook and line,,,,,,,,1,Mpunguti,15,7:30,12:00,11,11,150,NO,,
+SHM300518-01,Shimoni,30-May-18,Daniel Ocharo,Miki,Mashua,OB,15,Speargun,,,,,,,,,9,Nyuli,40,7:00,14:00,18,2,2700,NO,A few days ago,
+SHM310518-01,Shimoni,31-May-18,Daniel Ocharo,Tsambea,Footfisher,,,Speargun,Hook and line,,,,,,,,9,Mpunguti,10,9:00,14:20,2.49,0.276666667,400,NO,Last week,
+SHM040618-01,Shimoni,4-Jun-18,Daniel Ocharo,Kamba,Footfisher,,,Speargun,,,,,,,,,6,Kanzeni,10,8:00,14:40,38,6.333333333,5700,NO,,
+SHM060618-01,Shimoni,6-Jun-18,Daniel Ocharo,Mkwale,Footfisher,,,Speargun,,,,,,,,,6,Nyuli,15,8:00,14:00,4,0.666666667,400,NO,,
+SHM190618-01,Shimoni,19-Jun-18,Daniel Ocharo,Makame,Footfisher,,,Speargun,,,,,,,,,1,Nyuli,10,8:00,11:00,5,5,150,NO,,
+SHM200618-01,Shimoni,20-Jun-18,Daniel Ocharo,Makame,Mashua,OB,15,Handline,,,,,,8,8,4,4,Msambweni,30,5:00,7:00,124,31,,YES,,
+SHM220618-01,Shimoni,22-Jun-18,Daniel Ocharo,Shame,Mashua,OB,15,Handline,,,,,,9,9,3,3,Funzi,20,5:00,8:40,20,6.666666667,300,NO,3months ago,
+SHM250618-01,Shimoni,25-Jun-18,Daniel Ocharo,Shame,Mashua,OB,15,Handline,,,,,,8,5,3,3,Jurumi,35,17:00,6:00,130,43.33333333,,NO,this week,
+SHM260618-01,Shimoni,26-Jun-18,Daniel Ocharo,Tsambea,Mashua,OB,15,Gillnet,Hook,,,,,,,,9,Funzi,30,8:00,14:40,35,3.888888889,4250,NO,,
+SHM280618-01,Shimoni,28-Jun-18,Daniel Ocharo,Alifred,Mashua,OB,15,Speargun,Hook,,,,,,,,5,Mijira,30,7:00,12:00,38,7.6,2500,NO,Recently,
+SHM280618-02,Shimoni,28-Jun-18,Daniel Ocharo,Sila,Mashua,OB,15,Speargun,,,,,,,,,11,Mpunguti,20,8:00,13:00,10,0.909090909,2400,NO,Recently,
+SHM290618-01,Shimoni,29-Jun-18,Daniel Ocharo,Tsambea,Footfisher,,,Speargun,Hook,,,,,,,,1,Waga,10,10:00,13:58,7,7,300,NO,Recently,
+SHM300618-01,Shimoni,30-Jun-18,Daniel Ocharo,Anthony,Mtumbwi,,,Speargun,,,,,,,,,9,Kitungamwe,50,7:00,12:00,32,3.555555556,4800,NO,Recently,
+KPN010618-01,Kipini,1-Jun-18,Mbwana Madi,Mbwana,Mashua,OB,15,Gillnet,,Passive,120,50,4,,,,6,Tenewi,20,12:00,16:00,30,5,100,YES,Yesterday,
+KPN010618-02,Kipini,1-Jun-18,Mbwana Madi,Shebwana,Mashua,OB,15,Gillnet,,,120,50,4,,,,8,Tenewi,20,6:00,16:00,50,6.25,5000,NO,Last week,
+KPN020618-01,Kipini,2-Jun-18,Mbwana Madi,Shebwana,Mashua,,,Trawler,,,120,50,4,,,,16,Ziwayuu,20,6:00,16:00,25,1.5625,2500,NO,Last week,
+KPN020618-02,Kipini,2-Jun-18,Mbwana Madi,Shee Kale,Mashua,OB,15,Gillnet,,,120,50,4,,,,10,Ziwayuu,20,4:00,14:00,50,5,5000,NO,2 days ago,
+KPN030618-01,Kipini,3-Jun-18,Mbwana Madi,Shee Kale,Mashua,IB,25,Gillnet,,,120,50,4,,,,8,Tenewi,15,4:00,14:00,35,4.375,100,NO,2 days ago,
+KPN030618-02,Kipini,3-Jun-18,Mbwana Madi,Mzeedbo,Mashua,OB,15,Gillnet,,,120,50,4,,,,8,Tenewi,20,6:00,16:00,30,3.75,3000,NO,Last week,
+KPN040618-01,Kipini,4-Jun-18,Mbwana Madi,Shebwana,Mashua,OB,15,Gillnet,,,120,50,4,,,,8,Shekiko,20,6:00,16:00,20,2.5,4500,NO,Yesterday,
+KPN040618-02,Kipini,4-Jun-18,Mbwana Madi,Jafar J,Mashua,OB,15,Gillnet,,,120,50,4,,,,6,Shekiko,20,6:00,16:00,50,8.333333333,5000,NO,Yesterday,
+KPN050618-01,Kipini,5-Jun-18,Mbwana Madi,Shosho,Mashua,OB,15,Gillnet,,,120,50,4,,,,6,Ziwayuu,20,6:00,16:00,50,8.333333333,2500,NO,Yesterday,
+KPN050618-02,Kipini,5-Jun-18,Mbwana Madi,Mohamed Husein,Mashua,OB,15,Gillnet,,,120,50,4,,,,7,Ziwayuu,25,6:00,16:00,60,8.571428571,6000,YES,Yesterday,
+KPN050618-03,Kipini,5-Jun-18,,,Mtumbwi,,,Monofilament,,,,,,,,,,,,,,,,,,,
+KPN060618-01,Kipini,6-Jun-18,Mbwana Madi,Shebwana,Mashua,OB,15,Monofilament,,,,,2.5,,,,6,Tenewi,15,6:30,16:45,25,4.166666667,2500,NO,2 days ago,
+KPN060618-02,Kipini,6-Jun-18,Mbwana Madi,Lalibo,Mashua,OB,15,Monofilament,,,,,2.5,,,,6,Tenewi,15,6:00,15:30,35,5.833333333,3500,YES,Last week,
+KPN070618-01,Kipini,7-Jun-18,Mbwana Madi,Shee Kale,Mashua,OB,15,Monofilament,,,,,2.5,,,,8,Shekiko,20,4:00,14:00,30,3.75,3000,NO,YEsterday,
+KPN070618-02,Kipini,7-Jun-18,Mbwana Madi,Jay Tumbo,Mashua,OB,15,Monofilament,,,,,2.5,,,,7,Ziwayuu,30,5:00,13:00,80,11.42857143,8000,YES,Last week,
+KPN080618-01,Kipini,8-Jun-18,Mbwana Madi,Paulo,Mashua,OB,15,Monofilament,,,,,,,,,5,Tenewi,20,4:00,14:00,40,8,4000,NO,Last week,
+KPN080618-02,Kipini,8-Jun-18,Mbwana Madi,Kalu,Jahazi,OB,,Monofilament,,,,,,,,,7,Shekiko,20,,,40,5.714285714,4000,NO,Every Week,
+KPN090618-01,Kipini,9-Jun-18,Mbwana Madi,Sheebwana,Jahazi,,,Monofilament,,,,,,,,,8,,15,4:00,,30,3.75,3000,YES,Every Week,
+KPN090618-02,Kipini,9-Jun-18,Mbwana Madi,Sharifu,Jahazi,,,Monofilament,,,,,,,,,6,Ziwayuu,28,6:00,16:00,50,8.333333333,5000,ALL TYPES,Every Day,
+KPN100618-01,Kipini,10-Jun-18,Mbwana Madi,Lalibo,Jahazi,,,Monofilament,,,,,,,,,6,Ziwayuu,20,6:00,16:00,80,13.33333333,5000,NO,Last week,
+KPN100618-02,Kipini,10-Jun-18,Mbwana Madi,Shosho,Jahazi,,,Monofilament,,,,,,,,,5,Shekiko,20,6:00,17:00,35,7,3500,NO,Last week,
+KPN160718-01,Kipini,16-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,5,Bujra,30,6:00,13:00,20,4,3000,YES,Daily,
+KPN170718-01,Kipini,17-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,4,Ziwayuu,25,6:00,14:00,20,5,3000,YES,Yesterday,
+KPN180718-01,Kipini,18-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,4,Ziwayuu,25,6:00,14:15,18,4.5,2000,YES,Everyday,
+KPN200718-01,Kipini,20-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,4,Ziwayuu,25,,12:00,15,3.75,1500,YES,Daily,
+KPN230718-01,Kipini,23-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,4,Bujra,20,6:00,12:15,15,3.75,1500,YES,Yesterday,
+KPN240718-01,Kipini,24-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,4,Ziwayuu,25,6:00,14:00,20,5,2000,YES,Everyday,
+KPN250718-01,Kipini,25-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,4,Ziwayuu,30,6:00,12:30,25,6.25,2500,YES,Yesterday,
+KPN280718-01,Kipini,28-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,4,Ziwayuu,25,6:00,13:00,20,5,2000,YES,Last week,
+KPN290718-01,Kipini,29-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,4,Ziwayuu,30,6:00,11:30,25,6.25,2500,YES,Yesterday,
+KPN310718-01,Kipini,31-Jul-18,Mbwana Madi,Kalu,Feba,OB,15,Gillnet,,PASSIVE,200,2,2.5,,,,4,Ziwayuu,30,6:00,13:15,20,5,2000,YES,Daily,
+NGM150618-01,Ngomeni,15-Jun-18,Edward Wale/Ahmed Amin,Fuadi,Mashua,SAIL,,Gillnet,,,120,50,4,,,,5,Rasi ya  Ngome,30,6:00,11:00,30,6,3000,N/A,3 months back,None
+NGM180618-01,Ngomeni,18-Jun-18,Edward Wale/Ahmed Amin,Abdi Yusuf,Mashua,OB/HP,15,Monofilament,,,120,50,3.5,,,,6,Rasi ya  Ngome,30,6:00,10:30,16,2.666666667,1600,Targetted any species,For the last 3 months,
+NGM190618-01,Ngomeni,19-Jun-18,Edward Wale/Ahmed Amin,Ali Charo,Mashua,OB/HP,40,Monofilament,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,11:30,20,4,2000,Targetted any species,last 3 months,None
+NGM220618-01,Ngomeni,22-Jun-18,Edward Wale/Ahmed Amin,Abdi Yusuf,Mashua,OB/HP,15,Monofilament,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,9:30,10,2,1000,Targetted any species,3 months back,None
+NGM220618-02,Ngomeni,22-Jun-18,Edward Wale/Ahmed Amin,Maliki Abdallah,Mashua,OB/HP,45,Monofilament,,,120,50,3.5,,,,6,Rasi ya  Ngome,30,16:00,17:53,15,2.5,1500,Targetted all species,3 months back,None
+NGM230618-01,Ngomeni,23-Jun-18,Edward Wale/Ahmed Amin,Athuman Bunu,Mashua,OB/HP ,15,Gillnet,,,120,50,4,,,,5,Rasi ya  Ngome,30,6:00,10:00,7.5,1.5,750,Targetted all species,For the last 3 months,None
+NGM230618-02,Ngomeni,23-Jun-18,Edward Wale/Ahmed Amin,Abdi Yusuf,Mashua,OB/HP,15,Monofilament,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,11:00,7.5,1.5,750,Targetted all species,3 months back,None
+NGM230618-03,Ngomeni,23-Jun-18,Edward Wale/Ahmed Amin,Ahmed Moh'd,Mtumbwi,Paddle,,Monofilament,,,120,50,3.5,,,,4,Rasi ya  Ngome,30,6:00,11:50,30,7.5,3000,Targetted all species,3 months back,None
+NGM230618-04,Ngomeni,23-Jun-18,Edward Wale/Ahmed Amin,Athuman Bunu,Mashua,OB/HP,40,Monofilament,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,13:30,20,4,2000,Targetted all species,3 months back,None
+NGM240618-01,Ngomeni,24-Jun-18,Edward Wale/Ahmed Amin,Ismail Ali,Mashua,OB/HP,45,Gillnet,,,120,50,5,,,,5,Rasi ya  Ngome,30,16:30,9:00,18,3.6,1800,Targetted all species,3 months back,None
+NGM250618-01,Ngomeni,25-Jun-18,Edward Wale/Ahmed Amin,Moh'd Hussein,Mashua,IB/HP,,Gillnet,,,120,50,5,,,,6,Rasi ya  Ngome,30,16:30,8:00,10,1.666666667,1000,Targetted all species,3 months back,None
+NGM250618-02,Ngomeni,25-Jun-18,Edward Wale/Ahmed Amin,Ali Mohammed,Mashua,OB/HP,40,Monofilament,,,120,50,3.5,,,,3,Rasi ya  Ngome,30,6:00,10:45,5,1.666666667,500,Targetted any species,3 months back,None
+NGM250618-03,Ngomeni,25-Jun-18,Edward Wale/Ahmed Amin,Charo ,Mashua,OB/HP,15,Monofilament,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,11:00,8,1.6,800,Targetted any species,3 months back,None
+NGM260618-01,Ngomeni,26-Jun-18,Edward Wale/Ahmed Amin,Mambo,Mtumbwi,Paddle,,Monofilament,,,120,50,3.5,,,,3,Rasi ya  Ngome,30,6:00,9:00,8,2.666666667,640,Targetted any species,3 months back,None
+NGM270618-01,Ngomeni,27-Jun-18,Edward Wale/Ahmed Amin,Maliki Abdallah,Mtumbwi,OB/HP,40,Monofilament,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,9:45,10,2,1000,Targetted all species,3 months back,None
+NGM270618-02,Ngomeni,27-Jun-18,Edward Wale/Ahmed Amin,Anthony,Mashua,OB/HP,45,Monofilament,,,120,50,3.5,,,,4,Rasi ya  Ngome,30,6:00,11:00,12,3,1200,Targetted all species,3 months back,None
+NGM270618-03,Ngomeni,27-Jun-18,Edward Wale/Ahmed Amin,Abdi Yusuf,Mashua,OB/HP,15,Gillnet,,,120,50,4.5,,,,5,Rasi ya  Ngome,30,6:00,10:00,18,3.6,1800,Targetted all species,3 months back,None
+NGM270618-04,Ngomeni,27-Jun-18,Edward Wale/Ahmed Amin,Charo,Mashua,OB/HP ,45,Monofilament,,,120,50,3,,,,5,Rasi ya  Ngome,30,6:00,9:30,20,4,2000,Targetted all species,3 months back,None
+NGM270618-05,Ngomeni,27-Jun-18,Edward Wale/Ahmed Amin,Alex,Mashua,OB/HP,45,Gillnet,,,120,50,4.5,,,,6,Rasi ya  Ngome,30,6:00,11:30,20,3.333333333,2000,Targetted all species,3 months back,None
+NGM270618-06,Ngomeni,27-Jun-18,Edward Wale/Ahmed Amin,Nyale,Mashua,OB/HP,40,Gillnet,,,120,50,4,,,,6,Rasi ya  Ngome,30,6:00,9:45,15,2.5,1500,Targetted all species,3 months back,None
+NGM270618-07,Ngomeni,27-Jun-18,Edward Wale/Ahmed Amin,Abdi Yusuf,Mashua,OB/HP,15,Gillnet,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,9:50,20,4,2000,Targetted all species,3 months back,None
+NGM270618-08,Ngomeni,27-Jun-18,Edward Wale/Ahmed Amin,Ismail Ali,Mashua,OB/ HP,15,Gillnet,,,120,50,4.5,,,,4,Rasi ya  Ngome,30,6:00,10:30,16,4,1600,Targetted any species,For the last 3months ,None
+NGM270618-09,Ngomeni,27-Jun-18,Edward Wale/Ahmed Amin,Makesi,Mashua,OB/HP,40,Monofilament,,,120,50,3.5,,,,4,Rasi ya  Ngome,30,6:00,9:30,10,2.5,1000,Targetted any species,For the last 3 months,None
+NGM290618-01,Ngomeni,29-Jun-18,Edward Wale/Ahmed Amin,Ali Charo,Mashua,OB/HP,40,Monofilament,,,120,50,3,,,,4,Rasi ya  Ngome,30,6:00,9:45,9,2.25,900,Targetted all species,For the last 3months ,None
+NGM290618-02,Ngomeni,29-Jun-18,Edward Wale/Ahmed Amin,Feiswal,Mashua,OB/HP,15,Gillnet,,,120,50,4.5,,,,5,Rasi ya  Ngome,30,6:00,10:30,12,2.4,1200,Targetted all species,For the last 3months ,None
+NGM290618-03,Ngomeni,29-Jun-18,Edward Wale/Ahmed Amin,Ismail Ali,Mashua,OB/HP,15,Monofilament,,,120,50,3,,,,6,Rasi ya  Ngome,30,6:00,11:00,8,1.333333333,800,Targetted all species,For the last 3 months,None
+NGM290618-04,Ngomeni,29-Jun-18,Edward Wale/Ahmed Amin,Moh'd Hussein,Mashua,OB/HP,40,Gillnet,,,120,50,4.5,,,,5,Rasi ya  Ngome,30,6:00,10:30,10,2,1000,Targetted all species,For the last 3months ,None
+NGM290618-05,Ngomeni,29-Jun-18,Edward Wale/Ahmed Amin,Abdallah,Mashua,OB/HP,15,Gillnet,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,9:45,16,3.2,1600,Targetted all species,For the last 3 months,None
+NGM290618-06,Ngomeni,29-Jun-18,Edward Wale/Ahmed Amin,Alex,Mashua,OB/HP,45,Monofilament,,,120,50,3.5,,,,4,Rasi ya  Ngome,30,6:00,10:45,12,3,1200,Targetted all species,For the last 3 months,None
+NGM300618-01,Ngomeni,30-Jun-18,Edward Wale/Ahmed Amin,Abdi Yusuf,Mashua,OB/HP,15,Monofilament,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,10:22,10,2,1000,Targetted all species,For the last 3 months,None
+NGM010718-01,Ngomeni,1-Jul-18,Edward Wale/Ahmed Amin,Abdallah,Mashua,OB/HP,15,Monofilament,,,120,50,3.5,,,,5,Rasi ya  Ngome,30,6:00,11:00,20,4,2000,Targetted all species,For the last 3 months,None
+NGM010718-02,Ngomeni,1-Jul-18,Edward Wale/Ahmed Amin,Abdi Yusuf,Mashua,OB/HP,45,Gillnet,,,120,50,4.5,,,,5,Rasi ya  Ngome,30,6:00,10:30,18,3.6,1800,Targetted all species,For the last 3 months,None
+NGM020718-01,Ngomeni,2-Jul-18,Edward Wale/Ahmed Amin,Maliki Abdallah,Mashua,OB/HP,40,Monofilament,,,120,50,3,,,,4,Rasi ya  Ngome,30,6:00,11:30,10,2.5,1000,Targetted all species,For the last 3 months,None
+NGM030718-01,Ngomeni,3-Jul-18,Edward Wale/Ahmed Amin,Feiswal,Mashua,IB/HP,480,Gillnet,,,120,50,4.5,,,,5,Rasi ya  Ngome,30,16:00,9:40,14,2.8,1400,Targetted all species,For the last 3 months,None
+NGM030718-02,Ngomeni,3-Jul-18,Edward Wale/Ahmed Amin,Abdi Yusuf,Mashua,OB/HP ,15,Gillnet,,,120,50,3.5,,,,4,Rasi ya  Ngome,30,6:00,9:54,10,2.5,1000,Targetted all species,For the last 3 months,None
+NGM030718-03,Ngomeni,3-Jul-18,Edward Wale/Ahmed Amin,Moh'd Hussein,Mashua,OB/HP ,15,Gillnet,,,120,50,4.5,,,,6,Rasi ya  Ngome,30,16:30,9:30,8,1.333333333,800,Targetted all species,For the last 3 months,None
+NGM050718-01,Ngomeni,5-Jul-18,Edward Wale/Ahmed Amin,Pato Kombe,Mashua,OB/HP,40,Monofilament,,,120,50,3,,,,3,Rasi ya  Ngome,30,6:00,11:00,8,2.666666667,800,Targetted all species,For the last 3 months,None
+NGM050718-02,Ngomeni,5-Jul-18,Edward Wale/Ahmed Amin,Maliki Abdallah,Mashua,OB/HP,15,Monofilament,,,120,50,3.5,,,,4,Rasi ya  Ngome,30,6:00,10:00,12,3,1200,Targetted all species,For the last 3 months,None
+SHM150718-01,Shimoni,15-Jul-18,Daniel Ocharo,Swaleh,Mashua,OB/HP,15,Monofilament,,,,,,,,,3,Nyuli,20,8:00,13:18,13,4.333333333,1950,,Rarely,None
+SHM160718-01,Shimoni,16-Jul-18,Daniel Ocharo,Rama,Mashua,,15,Speargun,,Active,,,,,,,8,Mwipwa,,9:00,14:50,28,3.5,4200,No,Recently only ray fish caught,
+SHM170718-01,Shimoni,17-Jul-18,Daniel Ocharo,,Mtumbwi,,,Monofilament,,Active,,,,,,,1,Shangai,,10:00,15:20,,0,,No,,
+SHM190718-01,Shimoni,19-Jul-18,Daniel Ocharo,Tsembeo,Mtumbwi,,,Speargun,,Active,,,,,,,2,Mpunguti,,8:00,13:00,1,0.5,150,,,
+SHM230718-01,Shimoni,23-Jul-18,Daniel Ocharo,Omari,Mtumbwi,,,Gillnet,,Passive,50,3,4,,,,3,Funzi,10,5:00,12:19,1.085,0.361666667,162.75,No,Rarely,
+SHM240718-01,Shimoni,24-Jul-18,Daniel Ocharo,Nyuki,Footfisher,,,Speargun,,Active,,,,,,,1,,,9:50,15:46,1.1,1.1,165,No,Rays Always,
+SHM250718-01,Shimoni,25-Jul-18,Daniel Ocharo,,Mtumbwi,,,Speargun,,Active,,,,,,,1,Chengai,,9:00,14:05,1.6,1.6,240,No,Rays three times almost,
+SHM300718-01,Shimoni,30-Jul-18,Daniel Ocharo,Kiti,Mashua,,,Speargun,,Active,,,,,,,9,Funzi,,7:00,,68,7.555555556,10200,,,
+SHM310718-01,Shimoni,31-Jul-18,Daniel Ocharo,Ngonga,Mtumbwi,,,Speargun,,Active,,,,,,,,,,,14:51,,,,,,
+SHM010818-01,Shimoni,1-Aug-18,Daniel Ocharo,Komba,Mashua,,15,Speargun,,,,,,,,,5,Mwamba mkuu,,8:00,14:10,26.5,5.3,3975,No,only Rays once a month,
+SHM020818-01,Shimoni,2-Aug-18,Daniel Ocharo,Makame,Mashua,,15,Handline,,Active,,,,,,,3,Nyuli,,6:55,14:30,26,8.666666667,3900,,,
+SHM070818-01,Shimoni,7-Aug-18,Daniel Ocharo,Mbuvu,Mashua,,15,Speargun,,Active,,,,,,,5,Mpunguti,,7:00,11:45,1.32,0.264,264,,occassionally,
+SHM080818-01,Shimoni,8-Aug-18,Daniel Ocharo,Mshomoro,Mtumbwi,,,Gillnet,,,,,7,,,,5,Nyuma ya maji,10,4:00,13:00,108.5,21.7,"16,275",yes,Not Always.,
+SHM100818-01,Shimoni,10-Aug-18,Daniel Ocharo,Mbovu,Mtumbwi,,,Speargun,HS,Active,,,,,,,5,Nyuli,20,7:00,13:55,1.5,0.3,225,,Recently,
+SHM140818-01,Shimoni,14-Aug-18,Daniel Ocharo,Tsembeo,Mashua,,15,Speargun,HS,,,,,,,,2,Mpunguti,,7:00,,5.1,2.55,765,No,occassionally,
+SHM180818-01,Shimoni,18-Aug-18,Daniel Ocharo,Mwalimu,Mashua,,15,Monofilament,HS,,,,,,,,9,Nyuli,20,7:00,,15,1.666666667,2325,,Cant recall,
+SHM200818-01,Shimoni,20-Aug-18,Daniel Ocharo,Mohamed,Mtumbwi,,,Handline,SG,,,,,,,,7,Mpunguti,10,7:35,11:17,0.985,0.140714286,147.75,,,
+SHM230818-01,Shimoni,23-Aug-18,Daniel Ocharo,Kiti,Mtumbwi,,,Speargun,HS,,,,,,,,9,Mpunguti,10,7:00,13:26,4.2,0.466666667,630,,,
+SHM250818-02,Shimoni,25-Aug-18,Daniel Ocharo,Kiti,Mashua,,15,Speargun,HS,Active,,,,,,,9,Mpunguti,20,8:00,14:09,2.53,0.281111111,379.5,,,
+KPN010818-01,Kipini,1-Aug-18,Abuu Madi,Shekale,Mashua,,15,Monofilament,,Active,,,,,,,4,Tumisi,,6:00,11:30,,0,200,No,,
+KPN020818-01,Kipini,2-Aug-18,Abuu Madi,,Mtumbwi,,15,Monofilament,,Active,,,,,,,2,Funguni,,8:00,11:40,,0,,NO,,
+KPN030818-01,Kipini,3-Aug-18,Abuu Madi,,Dau,,15,Monofilament,,Active,,,,,,,2,Funguni,,7:00,12:30,36,18,200,,,
+KPN150818-01,Kipini,15-Aug-18,Mbwana Madi,Rama,Feba,,15,Gillnet,,Passive,200,20,3.5,,,,5,Ziwayuu,30,6:00,14:00,20,4,2000,YES,Everyday,
+KPN160818-01,Kipini,16-Aug-18,Mbwana Madi,Rama,Feba,,15,Gillnet,,Passive,200,20,3.5,,,,5,Ziwayuu,30,6:00,14:00,20,4,2500,YES,Yesterday,
+KPN170818-01,Kipini,17-Aug-18,Mbwana Madi,Kalu,Feba,,15,Gillnet,,Passive,200,20,2.5,,,,4,Bujra,20,6:00,13:00,15,3.75,2000,YES,Everyday,
+KPN180818-01,Kipini,18-Aug-18,Mbwana Madi,Kalu,Feba,,15,Gillnet,,Passive,200,20,2.5,,,,4,Bujra,20,6:00,13:30,15,3.75,1500,YES,Yesterday,
+KPN190818-01,Kipini,19-Aug-18,Mbwana Madi,Kalu,Feba,,15,Gillnet,,Passive,200,20,2.5,,,,4,Ziwayuu,25,6:00,14:30,20,5,1800,YES,Everyday,
+KPN200818-01,Kipini,20-Aug-18,Mbwana Madi,Rama,Mashua,,15,,,,200,20,2.5,,,,5,Ziwayuu,30,6:00,15:00,25,5,2000,YES,Everyday,
