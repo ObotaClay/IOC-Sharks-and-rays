@@ -1,4 +1,7 @@
 #set the working directory
+
+#setwd(here::here('IOC-Sharks-and-rays/'))
+
 library (plyr)
 library(reshape2)
 library(ggplot2)
@@ -6,12 +9,14 @@ library(dplyr)
 library(ggplot2)
 
 
-
-# Read and Clean dataset --------------------------------------------------
-
+# Effort Analysis ---------------------------------------------------------
 
 Shark<- read.csv("Shark_Ray2.csv",header = TRUE,stringsAsFactors = FALSE)
 
+ddply(Shark,~Landing.Site,summarise,Primary.gear.Type..code.=length(unique(Primary.gear.Type..code.)))
+
+
+# Catch Analysis ----------------------------------------------------------
 
 unique(Shark1$Shark.Scientific.name)
 
