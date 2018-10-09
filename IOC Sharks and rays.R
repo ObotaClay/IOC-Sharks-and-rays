@@ -42,7 +42,13 @@ distr.estimate <- aggregate(x = Shark$Landing.Site,
 # Catch Analysis ----------------------------------------------------------
 
 Shark1<- read.csv("Shark_Ray1.csv",header = TRUE,stringsAsFactors = FALSE)
-#add script line and delete here
+
+#do the average of the benthic category by site and year
+x<-ddply(benthic,c("Year","Site","benthic_category","benthic_code"),summarise,
+         mean_cover=mean(percent_cover,na.rm = T))
+#check sites with cover adding to 100%. 
+test_xsum<-ddply(x,c("Year","Site"),summarise,
+                 sum_cover=sum(mean_cover,na.rm = T))
 
 
 
