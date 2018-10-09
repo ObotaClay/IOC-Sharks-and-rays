@@ -41,6 +41,15 @@ distr.estimate <- aggregate(x = Shark$Landing.Site,
 
 # Catch Analysis ----------------------------------------------------------
 
+Shark1<- read.csv("Shark_Ray1.csv",header = TRUE,stringsAsFactors = FALSE)
+#add script line and delete here
+
+
+
+
+# SECTION -----------------------------------------------------------------
+
+
 unique(Shark1$Shark.Scientific.name)
 
 Shark2<-Shark1[c(which(Shark1$Shark.Scientific.name=="Sphyrna lewini" &Shark1$Landing.Site=="Kipini"),
