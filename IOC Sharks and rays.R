@@ -37,11 +37,10 @@ distr.estimate <- aggregate(x = Shark$Landing.Site,
                             })
 
 
-
-
 # Catch Analysis ----------------------------------------------------------
 
 Shark1<- read.csv("Shark_Ray1.csv",header = TRUE,stringsAsFactors = FALSE)
+
 
 #do the average of the benthic category by site and year
 x<-ddply(benthic,c("Year","Site","benthic_category","benthic_code"),summarise,
@@ -119,3 +118,11 @@ for (i in 1:length(h)){
   print(s[i])
   dev.off() 
 }
+
+
+# long to wide ------------------------------------------------------------
+
+library(tidyr)
+t<-data.frame(ftable(Shark_Ray2$`Primary gear Type (code)`,Shark_Ray2$`Landing Site`))
+
+t1<-spread(t,Var2,Freq)
