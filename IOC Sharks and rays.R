@@ -27,6 +27,10 @@ t3<-spread(t2,Var2,Freq)
 write.csv(t3,file='vessel_effort.csv',row.names = F)
 
 # 3. # of visitations to fishing grounds per landing site. 
+t4<-data.frame(ftable(Shark_Ray2$Area.Fished..Eneo.la.uvuvi..,Shark_Ray2$Landing.Site))
+t5<-spread(t4,Var2,Freq)
+
+
 
 
 # Catch Analysis ----------------------------------------------------------
