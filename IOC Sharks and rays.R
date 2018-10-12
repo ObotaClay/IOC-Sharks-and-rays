@@ -30,6 +30,12 @@ write.csv(t3,file='vessel_effort.csv',row.names = F)
 t4<-data.frame(ftable(Shark_Ray2$Area.Fished..Eneo.la.uvuvi..,Shark_Ray2$Landing.Site))
 t5<-spread(t4,Var2,Freq)
 
+# 4. CPUE by landing site and fishing ground
+t6<-data.frame(ftable(Shark_Ray2$CPUE.kg.fisher.trip.,Shark_Ray2$Area.Fished..Eneo.la.uvuvi..,Shark_Ray2$Landing.Site))
+
+
+t8<-spread(t7,Var3,Var2)
+
 
 
 
