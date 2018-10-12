@@ -7,39 +7,31 @@ library(reshape2)
 library(ggplot2)
 library(dplyr)
 library(ggplot2)
-
+library(tidyr)
 
 # Effort Analysis ---------------------------------------------------------
 
-Shark<- read.csv("Shark_Ray2.csv",header = TRUE,stringsAsFactors = FALSE)
+Shark_Ray2<- read.csv("Shark_Ray2.csv",header = TRUE,stringsAsFactors = FALSE)
 
-#trailing the script 
-ddply(Shark,~Landing.Site,summarise,Primary.gear.Type..code.=length(unique(Primary.gear.Type..code.)))
+# long to wide ------------------------------------------------------------
+#1. gear dist.
+t<-data.frame(ftable(Shark_Ray2$Primary.gear.Type..code.,Shark_Ray2$Landing.Site))
 
-values <- data.frame(value = c("a", "a", "a", "a", "a", 
-                               "b", "b", "b", 
-                               "c", "c", "c", "c"))
-nr.of.appearances <- aggregate(x = values, 
-                               by = list(unique.values = values$value), 
-                               FUN = length)
+t1<-spread(t,Var2,Freq)
 
-values <- data.frame(Shark = c("Gillnet", "Monofilament", "Speargun", "Handline", "Trawler"))
-nr.of.appearances <- aggregate(x = values, 
-                               by = list(unique.values = values$Shark), 
-                               FUN = length)
+write.csv(t1,file='gear_effort.csv',row.names = F)
 
+# 2. vessel dist.
+t2<-data.frame(ftable(Shark_Ray2$Boat..vessel.type..code.,Shark_Ray2$Landing.Site))
+t3<-spread(t2,Var2,Freq)
+write.csv(t3,file='vessel_effort.csv',row.names = F)
 
-distr.estimate <- aggregate(x = Shark$Landing.Site, 
-                            by = ,
-                            FUN = function(Primary.gear.Type..code.){
-                              fitdistr(observations, 
-                                       densfun = "normal")$estimate
-                            })
+# 3. # of visitations to fishing grounds per landing site. 
 
 
 # Catch Analysis ----------------------------------------------------------
 
-Shark1<- read.csv("Shark_Ray1.csv",header = TRUE,stringsAsFactors = FALSE)
+Shark_Ray1<- read.csv("Shark_Ray1.csv",header = TRUE,stringsAsFactors = FALSE)
 
 
 #do the average of the benthic category by site and year
@@ -120,9 +112,4 @@ for (i in 1:length(h)){
 }
 
 
-# long to wide ------------------------------------------------------------
 
-library(tidyr)
-t<-data.frame(ftable(Shark_Ray2$`Primary gear Type (code)`,Shark_Ray2$`Landing Site`))
-
-t1<-spread(t,Var2,Freq)
