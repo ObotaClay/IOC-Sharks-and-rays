@@ -30,14 +30,27 @@ write.csv(t3,file='vessel_effort.csv',row.names = F)
 t4<-data.frame(ftable(Shark_Ray2$Area.Fished..Eneo.la.uvuvi..,Shark_Ray2$Landing.Site))
 t5<-spread(t4,Var2,Freq)
 
-# 4. CPUE by landing site and fishing ground
-t6<-data.frame(ftable(Shark_Ray2$CPUE.kg.fisher.trip.,Shark_Ray2$Area.Fished..Eneo.la.uvuvi..,Shark_Ray2$Landing.Site))
+# 4. Mean CPUE by landing site and fishing ground
 
+t7<-ddply(Shark_Ray2, c("Landing.Site","Area.Fished..Eneo.la.uvuvi.."), summarise,
+              N    = sum(!is.na(CPUE.kg.fisher.trip.)),
+              mean_cpue = sum(CPUE.kg.fisher.trip., na.rm=TRUE),
+              sd   = sd(CPUE.kg.fisher.trip., na.rm=TRUE),
+              se   = sd / sqrt(N)
+)
 
-t8<-spread(t7,Var3,Var2)
+write.csv(t7,file='mean_fishing-ground_CPUE.csv',row.names = F)
 
+# 5. Mean CPUE by fishing gear
 
+t8<-ddply(Shark_Ray2, c("Primary.gear.Type..code."), summarise,
+          N    = sum(!is.na(CPUE.kg.fisher.trip.)),
+          mean_cpue = sum(CPUE.kg.fisher.trip., na.rm=TRUE),
+          sd   = sd(CPUE.kg.fisher.trip., na.rm=TRUE),
+          se   = sd / sqrt(N)
+)
 
+write.csv(t8,file='mean_CPUE-by-fishing_gear.csv',row.names = F)
 
 # Catch Analysis ----------------------------------------------------------
 
